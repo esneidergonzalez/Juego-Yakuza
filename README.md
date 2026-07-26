@@ -2,11 +2,11 @@
 
 ## Descripción del Proyecto
 
-Yakuza Battle es un videojuego RPG por turnos desarrollado en Java utilizando Programación Orientada a Objetos y una interfaz gráfica construida con Java Swing. En el juego, el jugador controla a un miembro de la Yakuza que debe enfrentarse a diferentes policías para ascender dentro de la organización y convertirse en el líder principal.
+Yakuza Battle es un videojuego RPG por turnos desarrollado en Java bajo el paradigma de Programación Orientada a Objetos, con una interfaz gráfica implementada en Java Swing. El jugador asume el rol de un miembro de la Yakuza que debe enfrentarse a distintos policías para ascender dentro de la organización y convertirse en su líder.
 
-El proyecto fue desarrollado como parte del curso de Programación Orientada a Objetos, aplicando conceptos fundamentales como encapsulamiento, herencia, polimorfismo y abstracción. Además, el sistema incluye mecánicas como combate por turnos, inventario de armas, sistema de curación, tienda, progresión de niveles y almacenamiento de puntuaciones.
+El proyecto fue realizado en el marco del curso de Programación Orientada a Objetos, aplicando principios como encapsulamiento, herencia, polimorfismo y abstracción. Incorpora mecánicas de combate por turnos, inventario de armas, sistema de curación, tienda, progresión de niveles y almacenamiento de puntuaciones.
 
-Inicialmente el juego fue desarrollado en consola, pero posteriormente evolucionó hacia una versión gráfica utilizando Java Swing, mejorando la experiencia visual y la interacción con el usuario.
+Inicialmente concebido como un juego de consola, evolucionó hacia una versión gráfica con Java Swing, mejorando la experiencia de usuario y la interacción visual.
 
 ---
 
@@ -162,8 +162,8 @@ Uso de clases abstractas e interfaces para definir comportamientos generales.
 # Autor / Equipo
 
 Desarrollado por:
-* Juan Manuel Gonzalez Mejia
 * Esneider Andres Gonzalez Toscano
+* Juan Manuel Gonzalez Mejia
 
 Institución: Pascual Bravo
 
